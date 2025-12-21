@@ -45,7 +45,7 @@ I believe in **consistent learning, practice, and growth**, and I enjoy building
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *[(add your LinkedIn profile link)](https://www.linkedin.com/in/hack-am/)*  
+- 💼 LinkedIn: *[(hack-am)](https://www.linkedin.com/in/hack-am/)*  
 
 ---
 
