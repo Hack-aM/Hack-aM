@@ -1,14 +1,14 @@
-# 👋 Hi, I'm Amresh Kumar Singh
+# Hi, I'm Amresh Kumar Singh
 
-### 💻 Aspiring Software Engineer | Backend Development | AI/ML & GenAI Enthusiast
+### Aspiring Software Engineer | Backend Development | AI/ML & GenAI Enthusiast
 
-🎓 **B.Tech – Computer Science & Technology (CST)**  
-🏫 Narula Institute of Technology  
-📅 2025 – 2029
+**B.Tech – Computer Science & Technology (CST)**  
+Narula Institute of Technology  
+2025 – 2029
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a Computer Science undergraduate passionate about software development, problem-solving, and building practical solutions to real-world problems.
 
@@ -16,15 +16,15 @@ I'm strengthening my programming fundamentals and Data Structures & Algorithms w
 
 I believe in learning by building, improving through consistency, and using technology to solve meaningful problems.
 
-- 💻 Strengthening programming and problem-solving skills
-- 🌐 Exploring backend and web development
-- 🤖 Learning Machine Learning and AI fundamentals
-- 🧠 Exploring Generative AI and LLM-powered applications
-- 🚀 Building projects and preparing for software engineering internships
+- Strengthening programming and problem-solving skills
+- Exploring backend and web development
+- Learning Machine Learning and AI fundamentals
+- Exploring Generative AI and LLM-powered applications
+- Building projects and preparing for software engineering internships
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 **Programming Languages**
 - C
@@ -57,7 +57,7 @@ I believe in learning by building, improving through consistency, and using tech
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Data Structures & Algorithms
 - Machine Learning
@@ -67,7 +67,7 @@ I believe in learning by building, improving through consistency, and using tech
 
 ---
 
-## 🎯 My Goals
+## My Goals
 
 - Build strong computer science fundamentals
 - Become proficient in backend development
@@ -78,7 +78,7 @@ I believe in learning by building, improving through consistency, and using tech
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 - 💼 **LinkedIn:** [hack-am](https://www.linkedin.com/in/hack-am/)
 - 𝕏 **X (Twitter):** [@AmreshSingh2005](https://x.com/AmreshSingh2005)
