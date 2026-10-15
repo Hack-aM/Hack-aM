@@ -77,7 +77,7 @@ I believe in learning by building, improving through consistency, and using tech
 ## Connect With Me
 
 - 💼 **LinkedIn:** [hack-am](https://www.linkedin.com/in/hack-am/)
-- 𝕏 **X (Twitter):** [@AmreshSingh2005](https://x.com/AmreshSingh2005)
+- 𝕏 **X (Twitter):** [@AmreshSingh2005](https://x.com/AmreshSingh870)
 
 ---
 
